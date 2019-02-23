@@ -1,0 +1,3 @@
+proyek;nomorproyek;jenisproyek#
+pegawai;nomorpegawai;namapegawai#
+bagian;nomorbagian;namabagian;periode#
